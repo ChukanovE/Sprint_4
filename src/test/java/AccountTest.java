@@ -9,6 +9,7 @@ public class AccountTest {
     private String name;
     private boolean isNameCorrect;
 
+
     public AccountTest (String name, boolean isNameCorrect) {
         this.name = name;
         this.isNameCorrect = isNameCorrect;
